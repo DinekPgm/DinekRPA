@@ -1,0 +1,13 @@
+﻿{
+  "Id": "Op5yZk3DIk2WsP_jQY04pg",
+  "Reference": "4zB_G4elOkGPYA0gguzQlw/Op5yZk3DIk2WsP_jQY04pg",
+  "ParentRef": "4zB_G4elOkGPYA0gguzQlw/YTH5MOqkxUGbCDGBsuKxCQ",
+  "Name": "Postcode",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-10-04T04:09:31.1717277Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-10-04T04:09:31.1717277Z"
+}

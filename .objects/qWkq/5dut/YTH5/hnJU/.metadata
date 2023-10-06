@@ -1,0 +1,13 @@
+﻿{
+  "Id": "hnJUEgq4bES3YGhgA6Y6fw",
+  "Reference": "4zB_G4elOkGPYA0gguzQlw/hnJUEgq4bES3YGhgA6Y6fw",
+  "ParentRef": "4zB_G4elOkGPYA0gguzQlw/YTH5MOqkxUGbCDGBsuKxCQ",
+  "Name": "Adults",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Created": "2023-10-04T04:09:30.5901891Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-10-04T04:09:30.5901891Z"
+}

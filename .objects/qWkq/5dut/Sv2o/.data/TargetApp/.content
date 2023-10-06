@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Edge" ContentHash="ernYUAzS7U-q62kVG-2cRw" Selector="&lt;html app='msedge.exe' title='BP Travel - Log In' /&gt;" Url="https://bptravel.blueprism.com/" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0Le86dWCT5kah82kaaYTgQg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c920875254769de762dda81ed802ca95.png" xmlns="">0n-eKnVRI80agKgeawt4gGg</imageRef>
+</TargetApp>

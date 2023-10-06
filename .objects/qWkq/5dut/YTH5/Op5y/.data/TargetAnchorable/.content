@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://bptravel.blueprism.com/createquote.html" ContentHash="hsSg4Cf-DUmD7578Mo7Sfg" DesignTimeRectangle="715, 506, 289, 29" ElementType="InputBox" FriendlyName="'INPUT postcode'" FullSelectorArgument="&lt;webctrl id='postcode' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='postcode' tag='INPUT' type='' aaname='' /&gt;" Guid="d7d7adac-8e08-42a7-b791-15d047e921e7" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='BP Travel - Create Quote' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="546, 502, 151, 37" ElementType="Text" FriendlyName="'Postcode'" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl isleaf='1' tableRow='9' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl isleaf='1' type='' tag='TD' aaname='Postcode' check:text='Postcode' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1ZjqgreiHdUGD5AqDZ2HkCA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0l997SZa8l0CJNyky1Z9pFg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e9ed88b51d22d612b70c9b0c8ba17180.png" xmlns="">0WW-mJ46ffUWMmBkA3m8awQ</imageRef>
+</TargetAnchorable>

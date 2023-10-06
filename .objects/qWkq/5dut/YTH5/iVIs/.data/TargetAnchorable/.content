@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://bptravel.blueprism.com/createquote.html" ContentHash="tu5UplyYrUqntobXB2XHFA" DesignTimeRectangle="715, 358, 289, 29" ElementType="InputBox" FriendlyName="'INPUT returning'" FullSelectorArgument="&lt;webctrl id='returning' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='returning' tag='INPUT' type='' aaname='' /&gt;" Guid="1fc01610-0c1a-433e-b780-d11a035b8516" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='BP Travel - Create Quote' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="546, 354, 151, 37" ElementType="Text" FriendlyName="'Returning'" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl isleaf='1' tableRow='5' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl isleaf='1' type='' tag='TD' aaname='Returning' check:text='Returning' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1Mtcw7sDJf0ylqq_S2K-A6w</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0C9X_UanBkES-S9G5SICJPg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="3801455bd237c5ce7e4d19cfc5385562.png" xmlns="">0awWMsUQXtkyMSv0_4iFfkg</imageRef>
+</TargetAnchorable>

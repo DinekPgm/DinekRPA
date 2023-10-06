@@ -1,0 +1,13 @@
+﻿{
+  "Id": "LuZLPrwoE0K0P_Kg4hESUg",
+  "Reference": "4zB_G4elOkGPYA0gguzQlw/LuZLPrwoE0K0P_Kg4hESUg",
+  "ParentRef": "4zB_G4elOkGPYA0gguzQlw/YTH5MOqkxUGbCDGBsuKxCQ",
+  "Name": "Create Quote",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-10-04T04:09:31.8695372Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-10-04T04:09:31.8695372Z"
+}

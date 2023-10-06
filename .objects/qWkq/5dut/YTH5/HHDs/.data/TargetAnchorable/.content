@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://bptravel.blueprism.com/createquote.html" ContentHash="gOfiMdJJlUmR5vOPpJiLjQ" DesignTimeRectangle="716, 248, 288, 28" ElementType="DropDown" FriendlyName="'Albania -'" FullSelectorArgument="&lt;webctrl id='to' tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='to' tag='SELECT' type='' aaname='' /&gt;" Guid="50c93b4f-1bde-40f0-bee1-16be6c0632d3" ScopeSelectorArgument="&lt;html app='msedge.exe' title='BP Travel - Create Quote' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="546, 243, 151, 37" ElementType="Text" FriendlyName="'To'" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl isleaf='1' tableRow='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl isleaf='1' type='' tag='TD' aaname='To' check:text='To' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">0_7nJpFj18k6zNWhM-D8oRw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="e48b18af39a1d3b416794997dd770a29.png" xmlns="">0Na9oXPJryE64FtU0uERkRA</imageRef>
+</TargetAnchorable>

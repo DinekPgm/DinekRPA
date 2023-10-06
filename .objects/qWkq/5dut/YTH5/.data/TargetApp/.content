@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Edge" ContentHash="PAfG97KqEkGKdudTuHgfmg" Selector="&lt;html app='msedge.exe' title='BP Travel - Create Quote' /&gt;" Url="https://bptravel.blueprism.com/createquote.html" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0uyFnxV32Fk-1pfK7IjJ7XQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="0bd6967ba552929201cb77710eac72da.png" xmlns="">0cXow-j44vkKe-CC7q-XWug</imageRef>
+</TargetApp>
