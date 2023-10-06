@@ -1,6 +1,6 @@
 {
   "name": "InfyTrainingUiPath",
-  "description": "Trainings",
+  "description": "Training",
   "main": "Main.xaml",
   "dependencies": {
     "DemoLib": "[1.0.1]",
